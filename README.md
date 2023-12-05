@@ -1,1 +1,1 @@
-# 3831-Outlier-Detection
+# 3831-Coursework-Part-1
